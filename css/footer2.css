@@ -1,0 +1,51 @@
+footer{
+    background-image: url(../imagenes/imagen-del-espacio.jpg);
+}
+.pie{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+    background-color: rgba(104, 104, 104, 0.055);
+    -webkit-box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.75)
+}
+.Texto2{
+    color: white;
+    width:   90%;
+    height: 650px;
+    margin: 50px 20px 20px 50px;
+    background-color: rgba(104, 104, 104, 0.425);
+    -webkit-box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 16px -2px rgba(0,0,0,0.75)
+}
+.work{
+    color: black;
+    width: auto;
+    height: auto;
+    background-color: white;
+    margin: 50px;
+    display:flex;
+    flex-direction: column;
+    font-size: 50px;
+    text-align: center;
+}
+.cajaimagen1{
+    color: black;
+    width: auto;
+    height: auto;
+    background-color: white;
+    margin: 50px;
+    display:flex;
+    flex-direction: column;
+    font-size: 50px;
+    text-align: center;
+}
+img{
+  width: 300px;
+  height: auto;
+
+    
+}
